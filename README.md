@@ -10,3 +10,5 @@ Mengkloning repository github ke repository lokal
 # git status 
 Mengecek status pada git
 
+# git fetch
+Mengecek repository remote dan membandingkan dengan repository lokal
