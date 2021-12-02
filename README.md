@@ -21,3 +21,4 @@ Mengecek repository hulu (asal fork)
 
 # git log --all --decorate --oneline --graph
 Melihat grafik garis repository kita
+
